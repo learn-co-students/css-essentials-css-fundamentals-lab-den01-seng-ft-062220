@@ -7,3 +7,11 @@ body {
 header {
   margin: auto;
 }
+
+h1, h3, p, nav, figcaption { text-align: center; } 
+
+#details { background: red; }
+
+.float { float: left;}
+
+.clear { clear: both; }
