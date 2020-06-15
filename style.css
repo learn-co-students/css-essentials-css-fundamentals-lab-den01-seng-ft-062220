@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  align-content: center;
+}
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
+#details{
+  display: block;
+}
+#details > div{
+  float: left;
+}
+div {
+  background-color: white;
+  text-align: center;
+  width: 25%;
+}
